@@ -55,6 +55,10 @@ This project employs the T5 transformer model, pretrained on a large corpus of t
 
 The model's performance can be evaluated based on the generated summaries.
 
+![Accuracy](https://github.com/rishii100/News-Summarizer/assets/98979613/4c70b3ce-eb5a-4452-b462-0c414bdf9d0a)
+
+Accuracy=97%
+
 ## User Flow
 ![user flow](https://github.com/rishii100/News-Summarizer/assets/98979613/de3255c5-ea83-4e88-9f93-7bc01ac2f1fb)
 
