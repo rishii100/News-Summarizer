@@ -43,10 +43,6 @@ This project is an implementation of a news summarizer using the T5 transformer 
 
     Execute each cell in the Jupyter Notebook to load the model, input a news article, and generate a summary.
 
-5. **Interpret Results:**
-
-    The notebook provides detailed steps and explanations along with the generated summaries.
-
 ## Model Details
 
 This project employs the T5 transformer model, pretrained on a large corpus of text data. The model is fine-tuned for the specific task of news summarization.
