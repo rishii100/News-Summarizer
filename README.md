@@ -21,7 +21,7 @@ This project is an implementation of a news summarizer using the T5 transformer 
 1. **Clone the Repository:**
 
     ```
-    git clone https://github.com/your-username/news-summarizer.git
+    git clone https://github.com/rishii100/News-Summarizer.git
     ```
     ```
     cd news-summarizer
@@ -29,14 +29,14 @@ This project is an implementation of a news summarizer using the T5 transformer 
 
 2. **Install Dependencies:**
 
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 
 3. **Open the Jupyter Notebook:**
 
-    ```bash
-    jupyter notebook News_Summarizer.ipynb
+    ```
+    jupyter notebook News-Summarizer.ipynb
     ```
 
 4. **Run the Notebook:**
