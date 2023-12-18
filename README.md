@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project is an implementation of a news summarizer using the T5 transformer model. The goal is to generate concise and informative summaries for news articles, providing users with a quick understanding of the content.
+News Summarizer is an abstractive text summarization project leveraging the T5 transformer model. Built in a Jupyter Notebook, it efficiently condenses news articles, offering concise and informative summaries. The implementation includes the T5 model fine-tuned for news summarization. Users can input news articles and witness the model's generation of abstractive summaries. With clear instructions and detailed steps, the project provides an accessible and insightful tool for extracting key information from news content. Explore the power of transformer models in natural language processing with this easy-to-use news summarization solution.
+
 ## Model Architecture
 
 ![Model Architecture](https://github.com/rishii100/News-Summarizer/assets/98979613/537de912-1739-491d-9d1c-0c8f7c5843a1)
