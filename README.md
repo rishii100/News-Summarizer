@@ -20,8 +20,10 @@ This project is an implementation of a news summarizer using the T5 transformer 
 
 1. **Clone the Repository:**
 
-    ```bash
+    ```
     git clone https://github.com/your-username/news-summarizer.git
+    ```
+    ```
     cd news-summarizer
     ```
 
