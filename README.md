@@ -53,7 +53,7 @@ This project employs the T5 transformer model, pretrained on a large corpus of t
 
 ## Results
 
-The model's performance can be evaluated based on the generated summaries. Check the trained model [trained_model.pickle](trained_model.pickle) file for detailed metrics and analysis.
+The model's performance can be evaluated based on the generated summaries.
 
 ## License
 
