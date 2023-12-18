@@ -65,7 +65,7 @@ The model's performance can be evaluated based on the generated summaries.
 
 ## Contributors
 
-- [Aneerban Saha](#)
+- [Aneerban Saha](https://github.com/rishii100))
 - [K. Krishna Koushika](https://github.com/koushika6)
 - [Akshita Jain](https://github.com/Akshita132)
 
