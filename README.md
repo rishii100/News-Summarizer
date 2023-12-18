@@ -63,6 +63,11 @@ The model's performance can be evaluated based on the generated summaries.
 ## User Flow
 ![user flow](https://github.com/rishii100/News-Summarizer/assets/98979613/de3255c5-ea83-4e88-9f93-7bc01ac2f1fb)
 
+## Contributors
+
+- [Aneerban Saha](#)
+- [K. Krishna Koushika](https://github.com/koushika6)
+- [Akshita Jain](https://github.com/Akshita132)
 
 ## License
 
