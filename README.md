@@ -47,11 +47,7 @@ This project is an implementation of a news summarizer using the T5 transformer 
 
 ## Model Details
 
-The project employs the T5 transformer model, pretrained on a large corpus of text data. The model is fine-tuned for the specific task of news summarization.
-
-## Example
-
-For a quick demonstration, refer to the [example.ipynb](example.ipynb) notebook, showcasing the summarization process on a sample news article.
+This project employs the T5 transformer model, pretrained on a large corpus of text data. The model is fine-tuned for the specific task of news summarization.
 
 ## Results
 
