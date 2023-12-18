@@ -71,7 +71,7 @@ The model's performance can be evaluated based on the generated summaries.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) file.
+This project is licensed under the [Apache License 2.0](LICENSE) file.
 
 ## Acknowledgments
 
