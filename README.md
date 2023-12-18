@@ -57,17 +57,12 @@ For a quick demonstration, refer to the [example.ipynb](example.ipynb) notebook,
 
 The model's performance can be evaluated based on the generated summaries. Check the [results.md](results.md) file for detailed metrics and analysis.
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues for bug reports, feature requests, or submit pull requests.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE) file.
 
 ## Acknowledgments
 
 - Special thanks to the [Hugging Face](https://huggingface.co/) community for providing the transformer models.
 - Inspired by the work in abstractive text summarization.
 
-Feel free to customize the README according to your project details, URLs, and additional information.
